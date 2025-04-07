@@ -5,6 +5,6 @@
 
 ### Links
 
-- Solution : [Frontend Mentor solution](https://www.frontendmentor.io/solutions/stats-preview-htmlcss-KvtVUixgtU)
-- Live Site : [Stats-Preview](https://tremy-t.github.io/Stats-Preview/)
+- Solution : [Frontend Mentor solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-UUU0rv00Q9)
+- Live Site : [huddle-landing-page-with-alternating-feature](https://tremy-t.github.io/huddle-landing-page-with-alternating-feature/)
 
